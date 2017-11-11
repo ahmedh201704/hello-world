@@ -1,4 +1,4 @@
 # hello-world
 test repository
 
-I am very with github & this is my first branch!
+I am new with github & this is my first branch!
